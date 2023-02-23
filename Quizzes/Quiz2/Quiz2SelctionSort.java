@@ -6,7 +6,7 @@ class Quiz2SelctionSort{
             System.out.print(arr2[i] + " ");
         }
     }
-    //selection sort in decending order
+    //selection sort in decending order, find max and find max 
     public static int[] selectionSortDescending(int[] arr){
         int[] arr2 = new int[arr.length];
         for(int i = 0; i < arr.length; i++){
